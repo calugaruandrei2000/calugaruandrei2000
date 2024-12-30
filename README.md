@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate IT enthusiast and SEO freelancer 
 ## 🌟 About Me
 
 - 🎓 **Education**: Bachelor's Degree in Landscape Architecture, with a strong focus on integrating technology into creative and analytical workflows.
-## 💼 Current Role: IT Developer & Technical Specialist  
+💼 Current Role: IT Developer & Technical Specialist  
 
 In my current role, I focus on creating and implementing technical solutions that bridge user needs with innovative technologies. Key responsibilities include:  
 - Designing and developing custom tools, such as automation scripts and data processing solutions, to enhance efficiency and reduce manual work.  
