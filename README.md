@@ -1,7 +1,45 @@
-- 👋 Hi, I’m @calugaruandrei2000
-- 📫 How to reach me : send me a messege via LinkedIn : https://www.linkedin.com/in/andrei-george-calugaru
+# 👋 Hello, I'm [Your Name] 
 
-<!---
-calugaruandrei2000/calugaruandrei2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate IT enthusiast and SEO freelancer with a background in landscape architecture and a keen interest in software development, automation, and problem-solving.
+
+---
+
+## 🌟 About Me
+
+- 🎓 **Education**: Bachelor's Degree in Landscape Architecture, with a strong focus on integrating technology into creative and analytical workflows.
+- 💼 **Current Role**: SEO Freelancer and aspiring IT researcher, leveraging technical expertise to optimize online presence and solve complex challenges.
+- 🛠️ **Expertise**:
+  - Website development and optimization (WordPress, WooCommerce)
+  - Networking (Home network optimization with CAT6A standards)
+  - Data analysis and automation (JSON, chatbot implementation)
+- 🌱 **Learning Goals**:
+  - Advanced programming concepts (Python, JavaScript)
+  - Machine learning and AI for personalized recommendations
+  - Chess algorithms and game theory
+- 💡 **Hobbies & Interests**:
+  - Solving mysteries with a technical approach
+  - Chess strategy and AI development
+  - Exploring IT infrastructure and optimization
+
+---
+
+## 📈 Stats & Insights
+
+- 🏆 **GitHub Highlights**:
+  - Implemented an interactive chatbot for e-commerce platforms.
+  - Optimized home networking setups for high-speed internet performance.
+  - Automated extraction and processing of product data for e-commerce solutions.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Portfolio**: [Your Website or Portfolio](https://yourwebsite.com)
+
+---
+
+> _"Solving problems is not just about finding answers, but about understanding the questions."_  
