@@ -36,10 +36,8 @@ Welcome to my GitHub profile! I'm a passionate IT enthusiast and SEO freelancer 
 
 ## 📫 Let's Connect!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Website or Portfolio](https://yourwebsite.com)
-
+- **Email**: andreicalugaru2000@gmail.com(mailto:andreicalugaru2000@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/andrei-george-calugaru/(https://www.linkedin.com/in/andrei-george-calugaru/)
 ---
 
 > _"Solving problems is not just about finding answers, but about understanding the questions."_  
