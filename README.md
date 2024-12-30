@@ -41,10 +41,10 @@ This role allows me to combine problem-solving skills with a hands-on approach t
   - 🎮 **Chess Learning Application**: Explored algorithms for chess openings and began work on an educational app to enhance strategic gameplay.
 
 - 📊 **GitHub Statistics**:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calugaruandrei2000&show_icons=true&theme=radical)
 
 - 🌟 **Activity Graph**:
-  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=calugaruandrei2000&theme=radical)
 
 ---
 
