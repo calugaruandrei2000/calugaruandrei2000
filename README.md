@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name] 
+# 👋 Hello, I'm Andrei-George Calugaru 
 
 Welcome to my GitHub profile! I'm a passionate IT enthusiast and SEO freelancer with a background in landscape architecture and a keen interest in software development, automation, and problem-solving.
 
